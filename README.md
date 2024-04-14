@@ -1,5 +1,6 @@
 # Chat Client
-
+For VUT FIT students:
+DO NOT COPY THIS CODE OR ANY PART OF IT, OTHERWISE YOU WILL BE DISCIPLINED BY THE DISCIPLINARY COMMITTEE.
 ## Overview
 The goal of the project is to create a chat client that communicates with a remote server using the IPK24CHAT protocol. The client uses the UDP and TCP transport protocols at the user's choice.
 
